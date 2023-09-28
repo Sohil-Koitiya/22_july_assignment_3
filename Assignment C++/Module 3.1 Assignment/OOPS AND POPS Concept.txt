@@ -1,0 +1,15 @@
+Que :-> What is OOP? List OOP concepts
+Ans :-> OOP is (Object Oriented Pogramming System)
+	List of OOP :-
+	1.Class
+	2.Objects
+	3.Constructor
+	4.Encapsulation
+	5.Abstraction
+	6.Inheritance
+	7.Polymorphism
+	8.File Handling
+	9.Friend Function
+	10.Inline Function
+	11.Templates
+	
